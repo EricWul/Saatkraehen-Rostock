@@ -1,8 +1,0 @@
-pandas
-geopandas
-matplotlib
-seaborn
-folium
-shapely
-scikit-learn
-contextily
